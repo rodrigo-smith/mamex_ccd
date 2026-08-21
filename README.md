@@ -10,4 +10,6 @@ Program 1D is the final MAMEX DCD process. Program 2E is the final MAMEX CCD pro
 
 Programs 1A-1C, 1E, and 2A-2D highlight chronological development stages of the project, to be considered alongside the accompanying thesis.
 
+The generated datasets for thesis benchmarking can be found here: https://1drv.ms/f/c/e0ae22d992343396/IgCwMYHQDav7RZ7xvkToA6jjAUoRXXPOEoJyCvnQja0xOSo?e=H8FaAx
+
 Published by Richard Rodrigo-Smith (B319800), 16th August 2026
